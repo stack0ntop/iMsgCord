@@ -28,13 +28,13 @@ Suggested screenshots:
 - Incoming and outgoing message bubbles
 - Inbox header and tabs
 - Unread messages and embedded content
-
+z
 Example:
 
-![Main chat preview](screenshots/Screenshot 2026-10-23 081814.png)
-![Server chat preview](screenshots/creenshot 2026-10-23 082016.png)
-![Inbox preview](screenshots/Screenshot 2026-10-23 081923.png)
-![Settings preview](screenshots/Screenshot 2026-10-23 082046.png)
+![Main chat preview](screenshots/dm.png)
+![Server chat preview](screenshots/server.png)
+![Inbox preview](screenshots/inbox.png)
+![Settings preview](screenshots/settings.png)
 
 
 ## Requirements
