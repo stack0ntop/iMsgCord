@@ -31,10 +31,10 @@ Suggested screenshots:
 z
 Example:
 
-![Main chat preview](screenshots/dm.png)
-![Server chat preview](screenshots/server.png)
-![Inbox preview](screenshots/inbox.png)
-![Settings preview](screenshots/settings.png)
+![Main chat preview](screenshots/dm)
+![Server chat preview](screenshots/server)
+![Inbox preview](screenshots/inbox)
+![Settings preview](screenshots/settings)
 
 
 ## Requirements
