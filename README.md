@@ -32,11 +32,11 @@ Suggested screenshots:
 Example:
 
 ```md
-![Main chat preview](screenshots/main-chat.png)
-![Inbox preview](screenshots/inbox.png)
+![Main chat preview](screenshots/Screenshot 2026-10-23 081814.png)
+![Server chat preview](screenshots/creenshot 2026-10-23 082016.png)
+![Inbox preview](screenshots/Screenshot 2026-10-23 081923.png)
+![Settings preview](screenshots/Screenshot 2026-10-23 082046.png)
 ```
-
-Place your screenshots in a `screenshots/` directory in this repository.
 
 ## Requirements
 
